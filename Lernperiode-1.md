@@ -9,7 +9,7 @@ g# Lern-Periode 1
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 
 ### Veränderungen
-> Nicht zu fest von anderen Ablenken lassen
+> Noch keine
 
 ### Projekte / neue Technologien
 > Wie man richtig mit Github und Visual Code studio umgeht
