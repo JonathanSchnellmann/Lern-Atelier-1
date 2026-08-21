@@ -26,7 +26,7 @@ g# Lern-Periode 1
 - [x] Visual Stuido Code einrichten 
 - [X] Github erstes Lernperioden Planung machen
 
-(Heute habe ich Github Eingerichtet danach gitbash sowie git gui eingerichtet und Visual Studio code heruntergeladen und eingerichtet dabei  gab es aber zuerst Probleme bei welchen ich Probleme hat, schlieslich habe ich noch meine erste Lerperiode geschrieben und das push and pullen von Github gelernt sowie meine Ziele für die nächste Woche erfasst. ))
+(Heute habe ich Github Eingerichtet so das es im Web sowie als Programm funktioniert danach gitbash sowie git gui eingerichtet und Visual Studio code heruntergeladen und eingerichtet dabei  gab es aber zuerst Probleme bei welchen ich Probleme hat, schlieslich habe ich noch meine erste Lerperiode geschrieben und das push and pullen von Github gelernt sowie meine Ziele für die nächste Woche erfasst. ))
 
 
 ### Planung 28.08.2026
