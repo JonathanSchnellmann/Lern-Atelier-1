@@ -32,9 +32,9 @@ g# Lern-Periode 1
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 1. Ziel
-- [ ] ...
-- [X] Viertes AP
+- [ ] Modul 431 weiterarbeiten
+- [ ] Modul 319 weiterarbeiten 
+- [X] Die ILA Aufgaben fertig lösen
 
 (Heute habe ich... (50-100 Wörter))
 
