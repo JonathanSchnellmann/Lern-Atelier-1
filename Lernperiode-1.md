@@ -1,4 +1,4 @@
-g# Lern-Periode 1
+# Lern-Periode 1
 
 - Name: Schnellmann Jonathan
 - Zeitraum: 21.08.2026 bis 28.09.2026
