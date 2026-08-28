@@ -34,7 +34,7 @@
 
 - [ ] Modul 431 weiterarbeiten
 - [ ] Modul 319 weiterarbeiten 
-- [X] Die ILA Aufgaben fertig lösen
+- [ ] Beim meinem eigenen Programm fortfahren
 
 (Heute habe ich... (50-100 Wörter))
 
