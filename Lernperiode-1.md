@@ -32,9 +32,19 @@
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] ILA Tag 2 Abschliesen
-- [ ] Modul 319 weiterarbeiten 
-- [ ] Beim meinem eigenen Programm fortfahren
+- [x] ILA Tag 2 Abschliesen
+- [x] Modul 319 weiterarbeiten 
+- [x] Beim meinem eigenen Programm fortfahren
+
+Heute habe ich als erstes die Probeprüfung von ILA Tag 2 angeschaut, dann habe ich beim Modul 319 die Mission Vier und Fünf gelöst und mit der Mission 6 begonnen da ich diese zimlich schwer fand habe ich mich bischen mit "w3school" vertraut gemacht wo ich C# repetiert habe und neue sachen dazu gelernt habe. Als ich damit fertig war. Habe ich an meinem eigenen Randomiser Programm weiter Gearbeitet und den Randomiser programmiert. Und schlieslich noch den Github bericht geschrieben.
+
+### Planung 04.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Modul 431 bis zu Handlungsziel 2 kommen
+- [x] Modul 319 weiterarbeiten 
+- [x] Beim meinem eigenen Programm fortfahren
+
 
 (Heute habe ich... (50-100 Wörter))
 
