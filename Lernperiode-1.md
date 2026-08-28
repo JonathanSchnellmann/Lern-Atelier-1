@@ -32,7 +32,7 @@
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Modul 431 weiterarbeiten
+- [ ] ILA Tag 2 Abschliesen
 - [ ] Modul 319 weiterarbeiten 
 - [ ] Beim meinem eigenen Programm fortfahren
 
