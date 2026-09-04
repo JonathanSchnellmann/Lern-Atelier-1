@@ -41,8 +41,8 @@ Heute habe ich als erstes die Probeprüfung von ILA Tag 2 angeschaut, dann habe 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [x] Modul 431 bis zu Handlungsziel 2 kommen
-- [x] Modul 319 weiterarbeiten 
+- [x] Für die OBA lernen (w3schools)
+- [x] Modul 319 weiterarbeiten (mission 6 fertig)
 - [x] Beim meinem eigenen Programm fortfahren
 
 
