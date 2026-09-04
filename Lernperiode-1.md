@@ -46,6 +46,18 @@ Heute habe ich als erstes die Probeprüfung von ILA Tag 2 angeschaut, dann habe 
 - [x] Beim meinem eigenen Programm fortfahren
 
 
+
+
+
+
+### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Für die OBA lernen (w3schools)
+- [x] Modul 319 weiterarbeiten (mission 6 fertig)
+- [x] Beim meinem eigenen Programm fortfahren
+
+
 (Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
