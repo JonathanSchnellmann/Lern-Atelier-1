@@ -1,7 +1,7 @@
 # Lern-Periode 1
 
 - Name: Schnellmann Jonathan
-- Zeitraum: 21.08.2026 bis 28.09.2026
+- Zeitraum: 21.08.2026 bis 25.09.2026
 
 ## Grob-Planung
 
@@ -53,9 +53,9 @@ Heute habe ich als erstes die Probeprüfung von ILA Tag 2 angeschaut, dann habe 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [x] Für die OBA lernen (w3schools)
-- [x] Modul 319 weiterarbeiten (mission 6 fertig)
-- [x] Beim meinem eigenen Programm fortfahren
+- [ ] Für die OBA lernen (w3schools)
+- [ ] Modul 319 weiterarbeiten (mission 6 fertig)
+- [ ] Beim meinem eigenen Programm fortfahren
 
 
 (Heute habe ich... (50-100 Wörter))
