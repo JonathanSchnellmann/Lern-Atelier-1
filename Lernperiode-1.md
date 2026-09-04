@@ -45,7 +45,7 @@ Heute habe ich als erstes die Probeprüfung von ILA Tag 2 angeschaut, dann habe 
 - [x] Modul 319 weiterarbeiten (mission 6 fertig)
 - [x] Beim meinem eigenen Programm fortfahren
 
-
+Heute habe ich zwar nicht schlecht aber auch nicht wirklich gut Gearbeitet. Ich habe am Anfang und Schluss zimlich gut gearbeitet doch zwischendurch war ich zu fest abgelenkt und habe nicht gut gearbeitet. Nächstes mal probiere ich so Musik zu hören das mich die Umgebung nicht stört. Was man verbessern könnte wäre auch das mehr nach einem Plan arbeitet heute habe ich immer wieder Projekte gewechselt was die Konzentrationspanne wieder zurücksetzt.Abschliesend kann man sagen das es kein Prima Tag war aber auch kein sehr schlechter denn als ich mal so richtig drin war habe ich sehr gut Gearbeitet.
 
 
 
@@ -53,8 +53,8 @@ Heute habe ich als erstes die Probeprüfung von ILA Tag 2 angeschaut, dann habe 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Für die OBA lernen (w3schools)
-- [ ] Modul 319 weiterarbeiten (mission 6 fertig)
+- [ ] Modul 431 weiterarbeiten
+- [ ] Modul 319 weiterarbeiten 
 - [ ] Beim meinem eigenen Programm fortfahren
 
 
