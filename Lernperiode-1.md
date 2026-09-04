@@ -45,7 +45,7 @@ Heute habe ich als erstes die Probeprüfung von ILA Tag 2 angeschaut, dann habe 
 - [x] Modul 319 weiterarbeiten (mission 6 fertig)
 - [x] Beim meinem eigenen Programm fortfahren
 
-Heute habe ich zwar nicht schlecht aber auch nicht wirklich gut Gearbeitet. Ich habe am Anfang und Schluss zimlich gut gearbeitet doch zwischendurch war ich zu fest abgelenkt und habe nicht gut gearbeitet. Nächstes mal probiere ich so Musik zu hören das mich die Umgebung nicht stört. Was man verbessern könnte wäre auch das mehr nach einem Plan arbeitet heute habe ich immer wieder Projekte gewechselt was die Konzentrationspanne wieder zurücksetzt.Abschliesend kann man sagen das es kein Prima Tag war aber auch kein sehr schlechter denn als ich mal so richtig drin war habe ich sehr gut Gearbeitet.
+Heute habe ich zwar nicht schlecht aber auch nicht wirklich gut Gearbeitet. Ich habe am Anfang und Schluss zimlich gut gearbeitet doch zwischendurch war ich zu fest abgelenkt und habe nicht gut gearbeitet. Nächstes mal probiere ich so Musik zu hören das mich die Umgebung nicht stört den ohne Musik arbeite ich nicht so Konzetriert. Was man verbessern könnte wäre auch das mehr nach einem Plan arbeiten, heute habe ich immer wieder Projekte gewechselt was die Konzentrationspanne wieder zurücksetzt.Abschliesend kann man sagen das es kein Prima Tag war aber auch kein sehr schlechter denn als ich mal so richtig drin war habe ich sehr gut Gearbeitet.
 
 
 
