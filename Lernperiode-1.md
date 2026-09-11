@@ -53,12 +53,24 @@ Heute habe ich zwar nicht schlecht aber auch nicht wirklich gut Gearbeitet. Ich 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] w3schools lernen (C# grundlagen aufbessern)
-- [ ] Modul 319 weiterarbeiten 
-- [ ] Beim meinem eigenen Programm fortfahren
+- [x] w3schools lernen (C# grundlagen aufbessern)
+- [x] Modul 319 weiterarbeiten 
+- [x] Beim meinem eigenen Programm fortfahren
 
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich wieder viel besser gearbeitet, es war ruhiger was mir sehr half gut zu arbeiten und mit meinen C# skills zu verbessern. ICh habe auch erstmals ohne  Musik das funktioniert sehr gut wenn es so leise ist. Für die nächsten Lektionen werde ich deswegen wieder gleich vorgehen wie dieses mal ausser das ich probiere ein Programm zu machen wo man wie mehr man lernt desto mehr erweitert man es.Was nicht so gut war, das ich keine weiteren Ideen mit dem Stoff hatte für das jetzige Programm
+
+
+### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] w3schools lernen (C# grundlagen aufbessern)
+- [x] Modul 319 weiterarbeiten 
+- [x] Ein neues Projekt starten (Programmieren)
+
+
+
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
