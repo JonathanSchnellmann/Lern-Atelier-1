@@ -53,7 +53,7 @@ Heute habe ich zwar nicht schlecht aber auch nicht wirklich gut Gearbeitet. Ich 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Modul 431 weiterarbeiten
+- [ ] w3schools lernen (C# grundlagen aufbessern)
 - [ ] Modul 319 weiterarbeiten 
 - [ ] Beim meinem eigenen Programm fortfahren
 
