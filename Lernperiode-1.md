@@ -65,8 +65,21 @@ Heute habe ich zwar nicht schlecht aber auch nicht wirklich gut Gearbeitet. Ich 
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] w3schools lernen (C# grundlagen aufbessern)
+- [x] Modul 319 weiterarbeiten 
+- [x] Ein neues Projekt starten (Programmieren)
+
+Heute war die Konzentration am anfang zimlich tief doch mit der Zeit habe ich immer besser gearbeitet, die letzen 1,5 stunden war ich auf höchster Konzentrationsstufe und mit voller Leistung. Die neuen Youtube Tutorials die ich angeschaut habe sind auch wirklich sehr hilfreich und sollte man später weiter auch nutzen. Verbessern könnte man das man schnell sehr Konzentriert ist, wozu ich aber noch keine gute Lösung gefunden habe.
+
+
+
+
+
+### Planung 25.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] w3schools lernen (C# grundlagen aufbessern)
 - [ ] Modul 319 weiterarbeiten 
-- [ ] Ein neues Projekt starten (Programmieren)
+- [ ] Weiterarbeiten kleinen eigenen Projekten
 
 
 
