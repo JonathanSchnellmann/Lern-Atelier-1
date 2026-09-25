@@ -79,7 +79,7 @@ Heute war die Konzentration am anfang zimlich tief doch mit der Zeit habe ich im
 
 - [ ] w3schools lernen (C# grundlagen aufbessern)
 - [ ] Modul 319 weiterarbeiten 
-- [ ] Weiterarbeiten kleinen eigenen Projekten
+- [ ] Replace the Farmer Fortschritte machen
 
 
 
