@@ -77,13 +77,13 @@ Heute war die Konzentration am anfang zimlich tief doch mit der Zeit habe ich im
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] w3schools lernen (C# grundlagen aufbessern)
-- [ ] Modul 319 weiterarbeiten 
-- [ ] Replace the Farmer Fortschritte machen
+- [x] w3schools lernen (C# grundlagen aufbessern)
+- [x] Modul 319 weiterarbeiten (sehr wenig) 
+- [x] Replace the Farmer Fortschritte machen
 
-
+In dieser Lernperiode habe ich grösstenteils nur "The Farmer was replaced" gespielt wo man nicht wirklich abgelenkt wird am anfang habe ich die Aufgabenstellung nicht ganz verstanden doch mit der Zeit bin ich immer besser reingekommen. Die ILA tag war ganz oke, doch in den Modulen habe ich fast nicht weiter gemacht.
 
 
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+Diese Lernperiode war grösstenteils Positiv und ich habe mit der Zeit immer besere wege gefunden um konzentriert zu lernen manchmal war es ein bischen zu heiss war ablenkend war (man müsste einen besseren Schattenplatz finden), aber sonst hat es gut funktioniert. An meinem neuen Programm das man ins unendliche erweitern können soll gab es nicht so grosse Fortschritte , doch im generell programieren habe ich mich sehr verbessert.
