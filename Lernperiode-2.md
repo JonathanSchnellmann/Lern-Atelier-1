@@ -23,11 +23,11 @@
 ### Planung 23.10.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Alle Moodel tests zu 431 machen
-- [ ] 3 Abgaben bei Modul 431 machen
-- [ ] Überprüfen ob alles richtig abgageben worden ist
+- [x] Alle Moodel tests zu 431 machen
+- [x] 3 Abgaben bei Modul 431 machen
+- [x] Überprüfen ob alles richtig abgageben worden ist
 
-(Was habe ich gemacht?)
+(Heute habe ich sehr gut gearbeitet aber die Aufgaben waren auch nicht die Konplezesten trotzdem war das ein sehr positiver ILA tag und wenn es nächste Woche wieder gleich gut ist, ist das fantastisch. Ich bin mit meinen Zielen gut zum Ende gekommen und kann voller Selbstvertrauen in die nächstee PRüfung gehen. Das einzige was vileicht noch kleines Ausbau potenzial hat ist die GEschwindikeit beim Arbeiten da könnte ich mich noch verbessern aber sonst lief es heute wirklich 1A.)
 
 
 ### Planung 30.11.2026
@@ -37,7 +37,7 @@
 - [ ] 
 - [ ] 
 
-(was habe ich gemacht)
+(was habe ich gemacht) schwierig zu formulieren neue sachen 
 
 
 
