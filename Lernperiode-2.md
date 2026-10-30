@@ -33,7 +33,7 @@
 ### Planung 30.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 
+- [ ] Programmieren in C# (eigene Sachen)
 - [ ] 
 - [ ] 
 
