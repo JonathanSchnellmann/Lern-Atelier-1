@@ -30,7 +30,18 @@
 (Heute habe ich sehr gut gearbeitet aber die Aufgaben waren auch nicht die Konplezesten trotzdem war das ein sehr positiver ILA tag und wenn es nächste Woche wieder gleich gut ist, ist das fantastisch. Ich bin mit meinen Zielen gut zum Ende gekommen und kann voller Selbstvertrauen in die nächstee PRüfung gehen. Das einzige was vileicht noch kleines Ausbau potenzial hat ist die GEschwindikeit beim Arbeiten da könnte ich mich noch verbessern aber sonst lief es heute wirklich 1A.)
 
 
-### Planung 30.11.2026
+### Planung 30.10.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Programmieren in C# (eigene Sachen)
+- [x] Vorbereitung Projekt Programmieren
+- [x] Vibe Coding für verständnis
+
+Heute habe ich gut gearbeitet habe beim Programmieren fortgefahren und ein Video zur Programmierung in C# geschaut was aber nicht sehr anspruchvoll ist oder viel konzentration bräuchte. Aber über den Tag kann man sagen das ich gut gearbeitet habe und man das die nächsten male immer so weiter machen kann da ich gerade kein aktives Projekt hatte habe ich eines Erstellt und werde das die nächsten Tage und wochen weiterführen
+
+
+
+### Planung 06.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Programmieren in C# (eigene Sachen)
