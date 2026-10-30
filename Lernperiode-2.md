@@ -34,8 +34,8 @@
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Programmieren in C# (eigene Sachen)
-- [ ] 
-- [ ] 
+- [ ] Vorbereitung Projekt Programmieren
+- [ ] Programmieren Ideen ausdenken
 
 (was habe ich gemacht) schwierig zu formulieren neue sachen 
 
