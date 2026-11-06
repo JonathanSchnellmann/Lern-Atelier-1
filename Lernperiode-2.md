@@ -44,9 +44,9 @@ Heute habe ich gut gearbeitet habe beim Programmieren fortgefahren und ein Video
 ### Planung 06.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Programmieren in C# (eigene Sachen)
-- [ ] Vorbereitung Projekt Programmieren
-- [ ] Programmieren Ideen ausdenken
+- [ ] Vibe Coding eigenes Projekt
+- [ ] Gym manager teilung der Aufgaben, lösung finden
+- [ ] Herausfinden wie man Unity bedient.
 
 (was habe ich gemacht) schwierig zu formulieren neue sachen 
 
