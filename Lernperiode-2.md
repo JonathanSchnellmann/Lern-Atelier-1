@@ -44,12 +44,25 @@ Heute habe ich gut gearbeitet habe beim Programmieren fortgefahren und ein Video
 ### Planung 06.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Vibe Coding eigenes Projekt
-- [ ] Gym manager teilung der Aufgaben, lösung finden
-- [ ] Herausfinden wie man Unity bedient.
+- [x] Vibe Coding eigenes Projekt  (nicht so viel)
+- [x] Gym manager teilung der Aufgaben, lösung finden
+- [x] Herausfinden wie man Unity bedient. (Ersten Grundlagen)
 
-(was habe ich gemacht) schwierig zu formulieren neue sachen 
+Heute habe ich gut gearbeitet ich habe mir ein Video ageschaut zu Unity also zu den Grundlagen davon, auch habe ich ein erstes PAP für das Projekt Gym manager gemacht  wo ich am Mitwoch forthfahren werde
+ und für die restliche Zeit habe ich verbesserung an meinem Vibecoding Programm gemacht die arbeit funktioniert also gut aber ich möchte die nächsten male wieder aktivere Sachen machen anstatt wie jetz viel Theorie.
 
+
+
+
+ ### Planung 13.11.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Vibe Coding
+- [ ] Gym manager 
+- [ ]  Unity 
+
+Heute habe ich gut gearbeitet ich habe mir ein Video ageschaut zu Unity also zu den Grundlagen davon, auch habe ich ein erstes PAP für das Projekt Gym manager gemacht  wo ich am Mitwoch forthfahren werde
+ und für die restliche Zeit habe ich verbesserung an meinem Vibecoding Programm gemacht die arbeit funktioniert also gut aber ich möchte die nächsten male wieder aktivere Sachen machen anstatt wie jetz viel Theorie.
 
 
 
