@@ -57,12 +57,11 @@ Heute habe ich gut gearbeitet ich habe mir ein Video ageschaut zu Unity also zu 
  ### Planung 13.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Vibe Coding
-- [ ] Gym manager 
-- [ ]  Unity 
+- [x] Vibe Coding
+- [ ] Gym manager  mit Gruppe
+- [ ]  Unity lernen.
 
-Heute habe ich gut gearbeitet ich habe mir ein Video ageschaut zu Unity also zu den Grundlagen davon, auch habe ich ein erstes PAP für das Projekt Gym manager gemacht  wo ich am Mitwoch forthfahren werde
- und für die restliche Zeit habe ich verbesserung an meinem Vibecoding Programm gemacht die arbeit funktioniert also gut aber ich möchte die nächsten male wieder aktivere Sachen machen anstatt wie jetz viel Theorie.
+XXXXXXXXXXXXXX
 
 
 
