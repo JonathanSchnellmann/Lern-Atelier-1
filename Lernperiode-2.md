@@ -7,7 +7,7 @@
 ## Grob-Planung
 
 ### Noten
-> In der OBA hatte ich eine 6 sonst gab es noch keine Noten
+> In der OBA hatte ich eine 6 und bei 431 habe ich auch eine 6
 
 ### Veränderungen
 > Noch keine
